@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\code\\c#\\successful project\\Reminder app\\reminder\\reminder\\reminder.csproj": {}
+  },
+  "projects": {
+    "E:\\code\\c#\\successful project\\Reminder app\\reminder\\reminder\\reminder.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\code\\c#\\successful project\\Reminder app\\reminder\\reminder\\reminder.csproj",
+        "projectName": "reminder",
+        "projectPath": "E:\\code\\c#\\successful project\\Reminder app\\reminder\\reminder\\reminder.csproj",
+        "packagesPath": "C:\\Users\\farja\\.nuget\\packages\\",
+        "outputPath": "E:\\code\\c#\\successful project\\Reminder app\\reminder\\reminder\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\farja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "Microsoft.Toolkit.Uwp.Notifications": {
+              "target": "Package",
+              "version": "[7.1.2, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
